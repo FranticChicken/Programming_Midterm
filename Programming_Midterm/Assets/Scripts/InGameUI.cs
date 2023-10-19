@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 
-public class Restart : MonoBehaviour
+public class InGameUI : MonoBehaviour
 {
     Button restartButton;
 
